@@ -1,0 +1,33 @@
+body {
+  width: 100%;
+	text-align: center;
+	font-size: small;
+  background-image: url(sunRise.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+
+#tiny {
+	font-size: 8px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+#poems {
+  text-align: center;
+
+}
