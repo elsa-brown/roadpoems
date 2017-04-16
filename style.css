@@ -1,33 +1,29 @@
-body {
-  width: 100%;
-	text-align: center;
-	font-size: small;
-  background-image: url(sunRise.jpg);
-  background-size: cover;
-  background-position: center;
+  body {
+      width: 100%;
+    text-align: center;
+    font-size: small;
+      background-image: url(sunRise.jpg);
+      background-size: cover;
+      background-position: center;
+      font-family: "Times New Roman", Times, serif;
 
-}
+  }
 
-#tiny {
-	font-size: 8px;
-}
+  #coda {
+    font-size: 8px;
+  }
 
-a:link {
-  text-decoration: none;
-  color: black;
-}
+  a:link {
+    text-decoration: none;
+    color: black;
+  }
 
-a:visited {
-  text-decoration: none;
-  color: black;
-}
+  a:visited {
+    text-decoration: none;
+    color: black;
+  }
 
-a:hover {
-  text-decoration: underline;
-  color: black;
-}
-
-#poems {
-  text-align: center;
-
-}
+  a:hover {
+    text-decoration: underline;
+    color: black;
+  }
