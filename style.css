@@ -1,29 +1,37 @@
-  body {
-      width: 100%;
-    text-align: center;
-    font-size: small;
-      background-image: url(sunRise.jpg);
-      background-size: cover;
-      background-position: center;
-      font-family: "Times New Roman", Times, serif;
+body {
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  line-height: 140%;
+  background-image: url(sunRise.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: "Times New Roman", Times, serif;
+}
 
-  }
+h1 {
+  font-size: 26px;
+}
 
-  #coda {
-    font-size: 8px;
-  }
+h2 {
+  font-size: 18px;
+}
 
-  a:link {
-    text-decoration: none;
-    color: black;
-  }
+#coda {
+  font-size: 12px;
+}
 
-  a:visited {
-    text-decoration: none;
-    color: black;
-  }
+a:link {
+  text-decoration: none;
+  color: black;
+}
 
-  a:hover {
-    text-decoration: underline;
-    color: black;
-  }
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
